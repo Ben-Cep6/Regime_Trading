@@ -22,7 +22,7 @@ from src.backtest    import run_backtest, compute_metrics, plot_results
 
 CONFIG = {
     "ticker":       "SPY",
-    "start":        "2010-01-01",
+    "start":        "2015-01-01",
     "end":          "2024-01-01",
     "model_type":   "rf",         # "rf" or "xgb"
     "allow_short":  False,
