@@ -1,0 +1,6 @@
+venv/
+venv1/
+__pycache__/
+*.pyc
+.DS_Store
+data/SPY_raw.csv
